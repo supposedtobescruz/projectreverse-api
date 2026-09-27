@@ -1,5 +1,5 @@
 # PROJECT REVERSE — C2 / IOC REPORT
-
+**DEOBFUSCATED LURAPH VRO 😂🤣😭**
 **Date:** 2026-09-27
 **Target:** `mm2.luau` (Luraph v14.8) — Roblox item/trade stealer
 **Stealer ID (campaign):** `CENSORED`
